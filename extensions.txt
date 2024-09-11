@@ -1,0 +1,11 @@
+App Icons Taskbar - Statusbar with center icons
+AppIndicator Support - To support app indicator on bar
+ArcMenu - For a menu
+Blur my Shell - Make the blur for interface
+Compiz alike magic lamp effect - Window effect to minimaze
+Media Controls - Show music on statusbar
+OpenWeather Refined - Custom weather
+[QSTweak] Quick Setting Tweaker - Make QS more compact and useful
+Resource Monitor - CPU and RAM on statusbar
+Tiling Shell - Make like W11 Snap Assistant
+User Themes - For custom themes 
